@@ -5,7 +5,7 @@ use warnings;
 
 use App::DWG::Sort;
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # Run.
 exit App::DWG::Sort->new->run;
@@ -75,6 +75,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
