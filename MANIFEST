@@ -22,5 +22,7 @@ README
 Sort.pm
 t/App-DWG-Sort/01-use.t
 t/App-DWG-Sort/02-version.t
+t/App-DWG-Sort/03-new.t
+t/App-DWG-Sort/04-run.t
 xt/App-DWG-Sort/01-pod_coverage.t
 xt/App-DWG-Sort/02-pod.t
